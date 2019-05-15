@@ -1,7 +1,7 @@
 # VRCollaborativeWorkspace
 
 SETUP GUIDE:
-This system is intended for two windows computers with their own Occulus Rift and Leap motion. The two computers will be networked over an ethernet cable. From this point on the two computers will be referred to as Computer 1 and Computer 2.
+This system is intended for two windows computers with their own Occulus Rift and Leap motion. The two computers will be networked over an ethernet cable. The SETUP GUIDE will walk you through setting up the Network Manager with the correct IP addresses. From this point on the two computers will be referred to as Computer 1 and Computer 2.
 
 On Computer 2:
 
